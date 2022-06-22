@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @A1exxander
-- 👀 I’m interested in software development and databases
-- 🌱 I’m currently learning data structures
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in : Software development and database design
+- 🌱 I’m currently learning : Web development
+- 💞️ I’m looking to collaborate on : ...
+- 📫 How to reach me : raposoalexander@gmail.com
 
 <!---
 A1exxander/A1exxander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
