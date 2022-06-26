@@ -2,6 +2,11 @@
 - 👀 I’m interested in : Software development and database design
 - 🌱 I’m currently learning : Web development
 - 📫 How to reach me : raposoalexander@gmail.com
+<hr>
+Languages and Tools:
+python tf c cpp cs lua js java kot
+
+vsc vs intelj ida
 
 <!---
 A1exxander/A1exxander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
