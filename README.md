@@ -4,12 +4,19 @@
 - 📫 How to reach me : raposoalexander@gmail.com
 <hr>
 - Languages & Technologies:
+
 - C++
+
 - C
-- Java
+
+- Java 
+
 - SQL
+
 - VB.Net
+ 
 - HTML + CSS
+
 - Windows & Linux ( Debian & Arch )
 <!---
 A1exxander/A1exxander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
