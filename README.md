@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning : Web development
 - 📫 How to reach me : raposoalexander@gmail.com
 <hr>
-- Languages & Technologies:
+Languages & Technologies:
 
 - C++
 
