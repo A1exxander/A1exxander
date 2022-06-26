@@ -4,7 +4,7 @@
 <hr>
 Languages & Technologies:
 
-- C++ 2020
+- C++ 20
 
 - C
 
