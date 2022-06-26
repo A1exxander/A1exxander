@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning : Web development
 <hr>
 Languages & Technologies:
+
 - C++ 2020
 
 - C
