@@ -5,17 +5,19 @@
 <hr>
 Languages & Technologies:
 
-- C++
+- C++ 2020
 
 - C
 
 - Java 
 
-- SQL
+- Visual Basic
 
-- VB.Net
+- SQL
  
-- HTML + CSS
+- HTML5 + CSS
+
+- Git
 
 - Windows & Linux ( Debian & Arch )
 <!---
