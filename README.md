@@ -1,6 +1,6 @@
 - 👋 Hi, I’m : @A1exxander
 - 👀 I’m interested in : Software development and database design
-- 🌱 I’m currently learning : Web development
+- 🌱 I’m currently learning : REST API Development
 <hr>
 Languages & Technologies:
 
