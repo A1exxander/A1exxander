@@ -8,13 +8,13 @@ Languages & Technologies:
 
 - C
 
-- Java 
+- Java + Spring
 
 - Visual Basic
 
-- SQL
+- MySQL, SQLite, Oracle SQL Developer
  
-- HTML5 + CSS
+- HTML5 + CSS + JavaScript + React
 
 - Git
 
