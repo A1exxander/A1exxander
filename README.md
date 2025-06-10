@@ -1,12 +1,12 @@
 - 👋 Hi, I’m : @A1exxander
-- 👀 I’m interested in : Software development and database design
-- 🌱 I’m currently learning : Hibernate ORM
+- 👀 I’m interested in : Software development and database management
+- 🌱 I’m currently learning : AWS
 <hr>
 Languages & Technologies:
 
 - C++ 20
 
-- Java + Spring + Selenium WebDriver + JUnit + Mockito
+- Java + Spring + Selenium WebDriver + Hibernate + JUnit + Mockito
 
 - MySQL, SQLite, Oracle SQL
  
