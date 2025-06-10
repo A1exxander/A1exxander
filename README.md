@@ -6,17 +6,13 @@ Languages & Technologies:
 
 - C++ 20
 
-- C
+- Java + Spring + Selenium WebDriver + JUnit + Mockito
 
-- Java + Spring
-
-- Visual Basic
-
-- MySQL, SQLite, Oracle SQL Developer
+- MySQL, SQLite, Oracle SQL
  
-- HTML5 + CSS + JavaScript + React
+- HTML5 + CSS + Tailwind + JavaScript + Typescript + React
 
-- Git
+- Git, Docker, Nginx
 
 - Windows & Linux ( Debian & Arch )
 <hr>
