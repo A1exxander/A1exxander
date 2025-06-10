@@ -10,9 +10,11 @@ Languages & Technologies:
 
 - MySQL, SQLite, Oracle SQL
  
-- HTML5 + CSS + Tailwind + JavaScript + Typescript + React
+- HTML5 + CSS + Tailwind + JavaScript + TypeScript + React
 
-- Git, Docker, Nginx
+- BASH
+
+- Git, Docker, Nginx, Postman, Maven
 
 - Windows & Linux ( Debian & Arch )
 <hr>
