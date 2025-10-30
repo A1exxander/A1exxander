@@ -14,7 +14,7 @@ Languages & Technologies:
 
 - BASH
 
-- Git, Docker, Nginx, Postman, Maven
+- Git, Docker, Nginx, Postman, Maven, Redis, Kafka
 
 - Windows & Linux ( Debian & Arch )
 <hr>
